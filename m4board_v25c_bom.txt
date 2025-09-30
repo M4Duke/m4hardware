@@ -1,0 +1,27 @@
+
+Qty Value               Device              Package               
+
+7   0.1uF               C-EUC0603K          C0603K                C2, C7, C9, C10, C11, C12, C17
+2   10K                 R-EU_R0603          R0603                 R1, R5
+1   10M                 R-EU_R0603          R0603                 R10
+2   20 pF               C-EUC0603K          C0603K                C1, C4
+1   1 uF X7R            C-EUC0603K          C0603K                C8
+1   1 uF                C-EUC0603K          C0603K                C16
+2   2.2 uF              C-EUC0603K          C0603K                C5, C6
+1   4.7 uF X7R          C-EUC0603K          C0603K                C13
+1   10 uF               C-EUC0603           C0603                 C14 (optional not really needed).
+1   47 - 100 uF         C-EUC1210           C1210                 C3  (optional not really needed).
+2   22 R                R-EU_R0603          R0603                 R7, R8
+1   330 R               R-EU_R0603          R0603                 R9
+2   1000 R              R-EU_R0603          R0603                 R6, R14
+2   3V                  LED-0603            LED-603               DD, ON
+1   8 MHz               CRYSTAL5X3          CRYSTAL-SMD-5X3       Q1 
+1   ESP                 ESP-12-E            ESP-12-E              WIFI
+1   RT9166A-36          RT9166A-36          SOT-89-3              3.6V Voltage regulator                                                                                                     
+1   MICROSD_PULL_TYPE   MICROSD_PULL_TYPE   MICROSD_PULL_TYPE     MICROSD                                                                                                 
+1   STM32F407VGT6       STM32F407VGT6       TQFP100               MCU, STM32F407 100 pin LQFP                                                       
+3   SW_TACT_2P-3X6      SW_TACT_2P-3X6      SW_TACT_3X6           SW1, SW2, SW3                                                                                           
+1   EXP_PORT                     -          3X25                  90 DEG PIN HEADER (top mount) or EDGE connector (bottom mount)
+1   CON_HEADER_1X03-PTH CON_HEADER_1X03-PTH M1X3                  Power Jumper
+1   JTAG                PINHD-1X9           1X09                  PIN HEADER                                                                   
+1                       USBMINIB            USB-MINIB            USB Connectors                                                             
